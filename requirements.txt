@@ -1,0 +1,9 @@
+fastapi
+fastapi-responses
+uvicorn
+requests
+pydantic
+Pillow
+numpy
+opencv-python
+matplotlib
